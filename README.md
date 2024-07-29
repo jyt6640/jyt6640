@@ -3,20 +3,14 @@
 
 
 <div align="center">
-<p>
-  <a href="https://loginshin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-<!--   <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a> -->
-<!--   <a href="https://twitter.com/cowkite" target="_blank"><img src="https://img.shields.io/badge/cowkite-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a> -->
-<!--   <a href="mailto:iscowkite@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> -->
-</p>
 
 <p>
- 안녕하세요.👋 소통반 맨 앞자리 <strong>LoGinShin입니다</strong>.🙌
+ 안녕하세요.👋 소통반 맨 앞자리 <strong>정용태입니다</strong>.🙌
  <br> 공부하는것을 즐기고 여러 사람과 대화하는것을 좋아합니다.<br>
  
 </p>
-<br><br><br>
-<p>📧Email <br>loginshin3@gmail.com</p>
+<br><br>
+<p>📧Email <br>jyt6640@gmail.com</p>
 
 <br><br><br>
 <h3>🌐기술 스택</h3>
