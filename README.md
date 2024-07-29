@@ -3,9 +3,9 @@
 <div align="center">
 
 <p>
- 안녕하세요.👋 소통반 맨 앞자리 <strong>정용태입니다</strong>.🙌
+ 안녕하세요.👋 소통을 좋아하는 개발자 <strong>정용태입니다</strong>.🙌
  <br> 프로그래밍 개발하는것을 즐기고 여러 사람과 대화하는것을 좋아합니다.<br>
- 
+
 </p>
 <br><br>
 <p>📧Email <br>jyt6640@gmail.com</p>
