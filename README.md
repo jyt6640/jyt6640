@@ -41,7 +41,7 @@
 </p>
  
 <a href="">
-  <img src="https://github-readme-stats.vercel.app/api?username=LoGinShin&theme=tokyonight&show_icons=true" white="45%"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jyt6640&theme=tokyonight&show_icons=true" white="45%"  />
 </a>
  
  
