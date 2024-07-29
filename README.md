@@ -1,5 +1,4 @@
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=👋%20Thank%20you%20for%20visiting.%20Im%20정용태&fontSize=32&fontColor=bfc0c9" />
 
 <div align="center">
 
