@@ -1,12 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=👋%20Thank%20you%20for%20visiting.%20Im%20LoGinShin&fontSize=32&fontColor=bfc0c9" />
-
-
-
 <div align="center">
 
 <p>
  안녕하세요.👋 소통반 맨 앞자리 <strong>정용태입니다</strong>.🙌
- <br> 공부하는것을 즐기고 여러 사람과 대화하는것을 좋아합니다.<br>
+ <br> 프로그래밍 개발하는것을 즐기고 여러 사람과 대화하는것을 좋아합니다.<br>
  
 </p>
 <br><br>
