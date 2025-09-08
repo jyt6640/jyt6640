@@ -27,13 +27,14 @@
 
 ---
 
+<div align="center">
+
 ### 📊 GitHub Stats
-<a href="https://github.com/jyt6640">
-  <img src="https://github-readme-stats.vercel.app/api?username=jyt6640&theme=tokyonight&show_icons=true" height="160px" />
-</a>
-<a href="https://github.com/jyt6640">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyt6640&layout=compact&theme=tokyonight" height="160px" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=jyt6640&show_icons=true&theme=tokyonight" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyt6640&layout=compact&theme=tokyonight" height="160px"/>
+
+</div>
+
 
 ---
 
