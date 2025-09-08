@@ -1,40 +1,43 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=👋%20Thank%20you%20for%20visiting.%20Im%20정용태&fontSize=32&fontColor=bfc0c9" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=👋%20Welcome!%20I'm%20정용태&fontSize=32&fontColor=ffffff" />
 
 <div align="center">
 
+## 🙌 안녕하세요!  
+소통을 좋아하는 개발자 **정용태**입니다.  
+프로그래밍을 즐기며, 함께 배우고 성장하는 과정을 소중히 생각합니다.  
+
+---
+
+### 📧 Contact
+📩 Email : **jyt6640@gmail.com**
+
+---
+
+### 🌐 Tech Stack
 <p>
- 안녕하세요.👋 소통을 좋아하는 개발자 <strong>정용태입니다</strong>.🙌
- <br> 프로그래밍 개발하는것을 즐기고 여러 사람과 대화하는것을 좋아합니다.<br>
-
-</p>
-<br><br>
-<p>📧Email <br>jyt6640@gmail.com</p>
-
-<br><br><br>
-<h3>🌐기술 스택</h3>
-<p>
- <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="\https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>  
-<!--   <img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black"> -->
- <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
 </p>
 <p>
- <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
- <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
- <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>  
 </p>
- 
-<a href="">
-  <img src="https://github-readme-stats.vercel.app/api?username=jyt6640&theme=tokyonight&show_icons=true" white="45%"  />
+
+---
+
+### 📊 GitHub Stats
+<a href="https://github.com/jyt6640">
+  <img src="https://github-readme-stats.vercel.app/api?username=jyt6640&theme=tokyonight&show_icons=true" height="160px" />
 </a>
- 
- 
- 
-<!--  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoGinShin)](https://github.com/anuraghazra/github-readme-stats)
- 
- ![LoGinShin GitHub stats](https://github-readme-stats.vercel.app/api?username=LoGinShin&show_icons=true&theme=transparent) -->
+<a href="https://github.com/jyt6640">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyt6640&layout=compact&theme=tokyonight" height="160px" />
+</a>
 
- </div>
+---
+
+### ✨ Motto
+> **“훌륭한 토론이 있어야 좋은 결과가 나온다.”**
+
+</div>
