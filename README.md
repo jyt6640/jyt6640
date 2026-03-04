@@ -30,17 +30,6 @@
 
 ---
 
-<div align="center">
-
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=jyt6640&show_icons=true&theme=tokyonight" height="160px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyt6640&layout=compact&theme=tokyonight" height="160px"/>
-
-</div>
-
-
----
-
 ### ✨ Motto
 > **“일단 시작하고 도전하자.”**
 
