@@ -6,6 +6,8 @@
 열띤 토론을 좋아하는 개발자 **정용태**(흑곰)입니다.  
 프로그래밍을 즐기며, 함께 배우고 성장하는 과정을 소중히 생각합니다.  
 
+<img src="https://github-readme-stats.vercel.app/api?username=jyt6640&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true">
+
 ---
 
 ### 📧 Contact
