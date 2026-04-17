@@ -11,8 +11,8 @@
 ---
 
 ### 📧 Contact
-📩 Email : **jyt6640@gmail.com**
-✍️ Blog : <a href="https://velog.io/@jyt6640" 블로그>
+📩 Email : **jyt6640@gmail.com** </br>
+✍️ Blog : https://velog.io/@jyt6640
 
 ---
 
