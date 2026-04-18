@@ -36,6 +36,11 @@
 
 ---
 
+### ✍️ BLOG
+![Velog Posts](https://img.shields.io/badge/dynamic/json?url=https://v2.velog.io/rss/jyt6640&label=posts)
+[![Velog](https://img.shields.io/badge/Velog-블로그-green?style=flat-square&logo=velog)](https://velog.io/@jyt6640)
+---
+
 ### ✨ Motto
 > **“일단 도전하고 경험하자.”**
 
