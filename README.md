@@ -39,9 +39,7 @@
 ### ✍️ BLOG
 
 
-#### Latest Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/jyt6640)
 
 ---
 
