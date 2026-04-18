@@ -12,7 +12,7 @@
 
 ### 📧 Contact
 📩 Email : **jyt6640@gmail.com** </br>
-✍️ Blog : https://velog.io/@jyt6640
+✍️ Blog : **https://velog.io/@jyt6640**
 
 ---
 
