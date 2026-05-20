@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=👋%20Welcome!%20I'm%20정용태&fontSize=32&fontColor=ffffff" />
 
-<div align="center"> 
+<div align="center">  
 
 ## 🙌 안녕하세요!  
 열띤 토론과 메타인지를 통해 성장을 도모하는 개발자 **정용태**(흑곰)입니다.  
