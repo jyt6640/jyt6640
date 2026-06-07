@@ -8,7 +8,7 @@
 불편함을 느끼고 문제를 해결하는 것을 좋아하며, 문제해결 도구인 프로그래밍을 즐기며, 함께 배우고 성장하는 과정을 소중히 생각합니다.   
 
 <img src="https://github-readme-stats.vercel.app/api?username=jyt6640&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true">
-
+  
 ---
 
 ### 📧 Contact
