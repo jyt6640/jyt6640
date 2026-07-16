@@ -44,6 +44,12 @@
 
 ---
 
+### AI Usage
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/jyt6640/svg?template=terminal&color=green&graph=1)](https://tokscale.ai/u/jyt6640)
+
+---
+
 ### ✨ Motto
 > **“일단 도전하고 경험하자”**  
 
