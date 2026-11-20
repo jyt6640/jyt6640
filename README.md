@@ -7,17 +7,11 @@
 
 ### 프로젝트
 
-**[Knot](https://github.com/woowacourse-teams/2026-knot)** | 회의 기록 검색
-
-- PostgreSQL 키워드 검색으로 첫 텍스트 응답 대기 시간을 **24.3초에서 3.5초**로 단축했습니다 (비교 실험).
-
-**[yANUs Groupware](https://github.com/Yanus306/yanus-groupware-BE)** | 개발 동아리 일정 및 출석 관리
-
-- 출석 예외 조회의 SELECT 쿼리를 **요청당 603회에서 2회**로 줄였습니다.
-
-**[Persona Harness](https://github.com/jyt6640/persona-harness)** | AI 코딩 에이전트용 TypeScript CLI
-
-- 수정할 파일에 맞는 컨벤션을 골라 전달하고, 계획부터 코드 리뷰까지 안내합니다.
+| 프로젝트 | 소개 |
+| --- | --- |
+| **[Knot](https://github.com/woowacourse-teams/2026-knot)** | 회의 녹음을 요약하고 지난 회의의 결정을 채팅으로 찾는 서비스 |
+| **[yANUs Groupware](https://github.com/Yanus306/yanus-groupware-BE)** | 개발 동아리의 일정과 출석을 관리하는 그룹웨어 |
+| **[Persona Harness](https://github.com/jyt6640/persona-harness)** | AI 코딩 에이전트에 개발 컨벤션을 전달하고 작업 순서를 안내하는 TypeScript CLI |
 
 ### 오픈소스
 
@@ -44,17 +38,11 @@ I'm a backend engineer who uses the products I build to spot problems and talks 
 
 ### Projects
 
-**[Knot](https://github.com/woowacourse-teams/2026-knot)** | Meeting search
-
-- Cut time to first streamed text from **24.3s to 3.5s** in a benchmark by switching to PostgreSQL keyword search.
-
-**[yANUs Groupware](https://github.com/Yanus306/yanus-groupware-BE)** | Scheduling and attendance for a student tech club
-
-- Cut attendance exception queries from **603 to 2 SELECTs per request**.
-
-**[Persona Harness](https://github.com/jyt6640/persona-harness)** | TypeScript CLI for AI coding agents
-
-- Selects conventions for the files being changed and guides agents from planning through code review.
+| Project | Description |
+| --- | --- |
+| **[Knot](https://github.com/woowacourse-teams/2026-knot)** | Summarizes recorded meetings and makes past decisions searchable in chat. |
+| **[yANUs Groupware](https://github.com/Yanus306/yanus-groupware-BE)** | Manages schedules and attendance for a student tech club. |
+| **[Persona Harness](https://github.com/jyt6640/persona-harness)** | A TypeScript CLI that gives AI coding agents project conventions and guides them through tasks. |
 
 ### Open Source
 
