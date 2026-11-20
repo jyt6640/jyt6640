@@ -3,16 +3,18 @@
 <details name="profile-language" open>
 <summary><strong>한국어</strong></summary>
 
-제가 만든 서비스를 직접 써보며 개선할 점을 찾고, 동료들과 해결 방법을 검토하는 백엔드 개발자입니다.
+제가 만든 서비스를 직접 써보며, 응답이 늦거나 기대와 다른 결과가 나오는 지점을 찾는 백엔드 개발자입니다. 요청 로그로 원인을 좁힌 뒤, 같은 상황을 재현해 수정이 효과가 있었는지 확인합니다.
+
+제가 배운 것을 동료들과 나누고, 같은 문제에 어떻게 접근하는지 듣는 걸 좋아합니다. 그 과정에서 제가 당연하게 여겼던 부분을 돌아보고 설계를 다시 검토합니다.
 
 ### 프로젝트
 
 <table>
   <thead>
     <tr>
-      <th width="33%" align="center"><a href="https://github.com/woowacourse-teams/2026-knot"><img src="./assets/knot-logo.jpg" height="28" alt="Knot logo"></a></th>
-      <th width="33%" align="center"><a href="https://github.com/Yanus306/yanus-groupware-BE"><img src="https://raw.githubusercontent.com/Yanus306/yanus-groupware/main/src/assets/logo.png" height="59" alt="yANUs Groupware logo"></a></th>
-      <th width="33%" align="center"><a href="https://github.com/jyt6640/persona-harness"><img src="https://raw.githubusercontent.com/jyt6640/persona-harness/main/img/Persona-Harness-Logo.png" height="64" alt="Persona Harness logo"></a></th>
+      <th width="33%" align="center"><a href="https://github.com/woowacourse-teams/2026-knot"><img src="./assets/knot-logo.jpg" height="22" alt="Knot logo"></a></th>
+      <th width="33%" align="center"><a href="https://github.com/Yanus306/yanus-groupware-BE"><img src="https://raw.githubusercontent.com/Yanus306/yanus-groupware/main/src/assets/logo.png" height="78" alt="yANUs Groupware logo"></a></th>
+      <th width="33%" align="center"><a href="https://github.com/jyt6640/persona-harness"><img src="https://raw.githubusercontent.com/jyt6640/persona-harness/main/img/Persona-Harness-Logo.png" height="120" alt="Persona Harness logo"></a></th>
     </tr>
   </thead>
   <tbody>
@@ -50,16 +52,18 @@
 <details name="profile-language">
 <summary><strong>English</strong></summary>
 
-I'm a backend engineer who uses the products I build to spot problems and talks through fixes with teammates.
+I’m a backend engineer who uses the products I build to spot slow responses and unexpected results. I use request logs to find the cause, then test the same cases again to verify the fix.
+
+I enjoy sharing what I learn and hearing how teammates would approach the same problem. Those conversations help me question my assumptions and rethink design choices.
 
 ### Projects
 
 <table>
   <thead>
     <tr>
-      <th width="33%" align="center"><a href="https://github.com/woowacourse-teams/2026-knot"><img src="./assets/knot-logo.jpg" height="28" alt="Knot logo"></a></th>
-      <th width="33%" align="center"><a href="https://github.com/Yanus306/yanus-groupware-BE"><img src="https://raw.githubusercontent.com/Yanus306/yanus-groupware/main/src/assets/logo.png" height="59" alt="yANUs Groupware logo"></a></th>
-      <th width="33%" align="center"><a href="https://github.com/jyt6640/persona-harness"><img src="https://raw.githubusercontent.com/jyt6640/persona-harness/main/img/Persona-Harness-Logo.png" height="64" alt="Persona Harness logo"></a></th>
+      <th width="33%" align="center"><a href="https://github.com/woowacourse-teams/2026-knot"><img src="./assets/knot-logo.jpg" height="22" alt="Knot logo"></a></th>
+      <th width="33%" align="center"><a href="https://github.com/Yanus306/yanus-groupware-BE"><img src="https://raw.githubusercontent.com/Yanus306/yanus-groupware/main/src/assets/logo.png" height="78" alt="yANUs Groupware logo"></a></th>
+      <th width="33%" align="center"><a href="https://github.com/jyt6640/persona-harness"><img src="https://raw.githubusercontent.com/jyt6640/persona-harness/main/img/Persona-Harness-Logo.png" height="120" alt="Persona Harness logo"></a></th>
     </tr>
   </thead>
   <tbody>
