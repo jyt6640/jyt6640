@@ -27,7 +27,6 @@ I use what I build to find problems and share ideas with teammates to see what I
 </p>
 <p>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
   <img alt="QueryDSL" src="https://img.shields.io/badge/QueryDSL-0085CA?style=for-the-badge" />
 </p>
 <p>
