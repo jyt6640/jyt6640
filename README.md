@@ -7,11 +7,27 @@
 
 ### 프로젝트
 
-| 프로젝트 | 소개 |
-| --- | --- |
-| **[Knot](https://github.com/woowacourse-teams/2026-knot)** | 회의 녹음을 요약하고 지난 회의의 결정을 채팅으로 찾는 서비스 |
-| **[yANUs Groupware](https://github.com/Yanus306/yanus-groupware-BE)** | 개발 동아리의 일정과 출석을 관리하는 그룹웨어 |
-| **[Persona Harness](https://github.com/jyt6640/persona-harness)** | AI 코딩 에이전트에 개발 컨벤션을 전달하고 작업 순서를 안내하는 TypeScript CLI |
+<table>
+  <thead>
+    <tr>
+      <th width="33%" align="center"><a href="https://github.com/woowacourse-teams/2026-knot"><img src="./assets/knot-logo.jpg" height="28" alt="Knot logo"></a></th>
+      <th width="33%" align="center"><a href="https://github.com/Yanus306/yanus-groupware-BE"><img src="https://raw.githubusercontent.com/Yanus306/yanus-groupware/main/src/assets/logo.png" height="59" alt="yANUs Groupware logo"></a></th>
+      <th width="33%" align="center"><a href="https://github.com/jyt6640/persona-harness"><img src="https://raw.githubusercontent.com/jyt6640/persona-harness/main/img/Persona-Harness-Logo.png" height="64" alt="Persona Harness logo"></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="top"><strong>Knot</strong><br>회의 녹음을 요약하고 지난 회의의 결정을 채팅으로 찾는 서비스</td>
+      <td align="center" valign="top"><strong>yANUs Groupware</strong><br>개발 동아리의 일정과 출석을 관리하는 그룹웨어</td>
+      <td align="center" valign="top"><strong>Persona Harness</strong><br>AI 코딩 에이전트에 개발 컨벤션을 전달하고 작업 순서를 안내하는 TypeScript CLI</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://knoted.kr">사이트</a> | <a href="https://github.com/woowacourse-teams/2026-knot">GitHub</a></td>
+      <td align="center"><a href="https://yanus.bond">사이트</a> | <a href="https://github.com/Yanus306/yanus-groupware-BE">GitHub</a></td>
+      <td align="center"><a href="https://www.npmjs.com/package/persona-harness">npm</a> | <a href="https://github.com/jyt6640/persona-harness">GitHub</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ### 오픈소스
 
@@ -38,11 +54,27 @@ I'm a backend engineer who uses the products I build to spot problems and talks 
 
 ### Projects
 
-| Project | Description |
-| --- | --- |
-| **[Knot](https://github.com/woowacourse-teams/2026-knot)** | Summarizes recorded meetings and makes past decisions searchable in chat. |
-| **[yANUs Groupware](https://github.com/Yanus306/yanus-groupware-BE)** | Manages schedules and attendance for a student tech club. |
-| **[Persona Harness](https://github.com/jyt6640/persona-harness)** | A TypeScript CLI that gives AI coding agents project conventions and guides them through tasks. |
+<table>
+  <thead>
+    <tr>
+      <th width="33%" align="center"><a href="https://github.com/woowacourse-teams/2026-knot"><img src="./assets/knot-logo.jpg" height="28" alt="Knot logo"></a></th>
+      <th width="33%" align="center"><a href="https://github.com/Yanus306/yanus-groupware-BE"><img src="https://raw.githubusercontent.com/Yanus306/yanus-groupware/main/src/assets/logo.png" height="59" alt="yANUs Groupware logo"></a></th>
+      <th width="33%" align="center"><a href="https://github.com/jyt6640/persona-harness"><img src="https://raw.githubusercontent.com/jyt6640/persona-harness/main/img/Persona-Harness-Logo.png" height="64" alt="Persona Harness logo"></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="top"><strong>Knot</strong><br>Turns meeting audio into notes and lets teams find past decisions in chat.</td>
+      <td align="center" valign="top"><strong>yANUs Groupware</strong><br>Manages schedules and attendance for a student tech club.</td>
+      <td align="center" valign="top"><strong>Persona Harness</strong><br>A TypeScript CLI that guides AI coding agents with project rules and workflows.</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://knoted.kr">Site</a> | <a href="https://github.com/woowacourse-teams/2026-knot">GitHub</a></td>
+      <td align="center"><a href="https://yanus.bond">Site</a> | <a href="https://github.com/Yanus306/yanus-groupware-BE">GitHub</a></td>
+      <td align="center"><a href="https://www.npmjs.com/package/persona-harness">npm</a> | <a href="https://github.com/jyt6640/persona-harness">GitHub</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Open Source
 
