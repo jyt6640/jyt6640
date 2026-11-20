@@ -1,56 +1,35 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=👋%20Welcome!%20I'm%20정용태&fontSize=32&fontColor=ffffff" />
-  
-<div align="center">   
- 
-## 🙌 안녕하세요!  
-열띤 토론과 메타인지를 통해 성장을 도모하는 개발자 **정용태**(흑곰)입니다.  
+<img width="100%" alt="Yongtae Jung" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=155&section=header&text=Yongtae%20Jung&fontSize=40&fontColor=ffffff" />
 
-불편함을 느끼고 문제를 해결하는 것을 좋아하며, 문제해결 도구인 프로그래밍을 즐기며, 함께 배우고 성장하는 과정을 소중히 생각합니다.   
-  
----
+<div align="center">
 
-### 📧 Contact
-📩 Email : **jyt6640@gmail.com** </br>
-✍️ Blog : **https://velog.io/@jyt6640**
+**Backend Engineer**
 
-![Profile Views](https://komarev.com/ghpvc/?username=jyt6640&color=7b2ff7&style=flat-square&label=Profile+Views)
+I build backend services with Java, Spring Boot, and PostgreSQL.  
+I enjoy hearing how teammates would solve the same problem. Their ideas often help me see what I missed.
 
----
+[Email](mailto:jyt6640@gmail.com) · [Blog](https://velog.io/@jyt6640) · [LinkedIn](https://www.linkedin.com/in/%EC%9A%A9%ED%83%9C-%EC%A0%95-0a8381307/)
 
-### 🌐 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/QueryDSL-0085CA?style=for-the-badge&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-</p>
-
----
-
-### ✍️ BLOG 
-
-
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/jyt6640)
-
----
-
-### AI Usage
-
-[![Tokscale Stats](https://tokscale.ai/api/embed/jyt6640/svg?template=terminal&color=green&graph=1)](https://tokscale.ai/u/jyt6640)
-
----
-
-### ✨ Motto
-> **“일단 도전하고 경험하자”**  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
+
+## Projects
+
+**[Knot](https://github.com/woowacourse-teams/2026-knot)**  
+Turns recorded meetings into searchable notes and lets teams find past decisions in chat.
+
+- Cut the time to first streamed text from **24.3s to 3.5s** by moving document retrieval to PostgreSQL.
+- Combined keyword and vector search to improve top-10 document recall from **92.0% to 95.8%**.
+
+**[yANUs Groupware](https://github.com/Yanus306/yanus-groupware-BE)**  
+Manages schedules and attendance for a student club.
+
+- Reduced an attendance API’s SQL queries from **603 to 2 per request** and fixed errors on concurrent check-ins.
+
+## Open Source
+
+**[Spring AI #6179](https://github.com/spring-projects/spring-ai/pull/6179)**  
+Fixed a pgvector startup issue by adding the missing JDBC starter.
