@@ -1,35 +1,51 @@
-<img width="100%" alt="Yongtae Jung" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=155&section=header&text=Yongtae%20Jung&fontSize=40&fontColor=ffffff" />
+<img width="100%" alt="Welcome! I'm Yongtae Jung" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=220&amp;section=header&amp;text=Welcome!%20I%27m%20Yongtae%20Jung&amp;fontSize=36&amp;fontColor=ffffff" />
 
 <div align="center">
 
-**Backend Engineer**
+## 🙌 Hi there!
 
-I build backend services with Java, Spring Boot, and PostgreSQL.  
-I enjoy hearing how teammates would solve the same problem. Their ideas often help me see what I missed.
+I’m a backend engineer working with **Java, Spring Boot, and PostgreSQL**.  
+I use what I build to find problems and share ideas with teammates to see what I might have missed.
 
-[Email](mailto:jyt6640@gmail.com) · [Blog](https://velog.io/@jyt6640) · [LinkedIn](https://www.linkedin.com/in/%EC%9A%A9%ED%83%9C-%EC%A0%95-0a8381307/)
+---
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### 📧 Contact
+
+[Email](mailto:jyt6640@gmail.com) | [Velog](https://velog.io/@jyt6640)
+
+![Profile Views](https://komarev.com/ghpvc/?username=jyt6640&color=7b2ff7&style=flat-square&label=Profile+Views)
+
+---
+
+### 🌐 Tech Stack
+
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" />
+  <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&amp;logo=springsecurity&amp;logoColor=white" />
+  <img alt="JPA" src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&amp;logo=hibernate&amp;logoColor=white" />
+</p>
+<p>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
+  <img alt="QueryDSL" src="https://img.shields.io/badge/QueryDSL-0085CA?style=for-the-badge" />
+</p>
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" />
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" />
+</p>
+
+---
+
+### ✍️ Blog
+
+[![Velog Stats](https://velog-github-badge.vercel.app/badge/jyt6640)](https://velog.io/@jyt6640)
+
+---
+
+### 🤖 AI Usage
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/jyt6640/svg?template=terminal&color=green&graph=1)](https://tokscale.ai/u/jyt6640)
 
 </div>
-
-## Projects
-
-**[Knot](https://github.com/woowacourse-teams/2026-knot)**  
-Turns recorded meetings into searchable notes and lets teams find past decisions in chat.
-
-- Cut the time to first streamed text from **24.3s to 3.5s** by moving document retrieval to PostgreSQL.
-- Combined keyword and vector search to improve top-10 document recall from **92.0% to 95.8%**.
-
-**[yANUs Groupware](https://github.com/Yanus306/yanus-groupware-BE)**  
-Manages schedules and attendance for a student club.
-
-- Reduced an attendance API’s SQL queries from **603 to 2 per request** and fixed errors on concurrent check-ins.
-
-## Open Source
-
-**[Spring AI #6179](https://github.com/spring-projects/spring-ai/pull/6179)**  
-Fixed a pgvector startup issue by adding the missing JDBC starter.
