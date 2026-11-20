@@ -11,7 +11,7 @@ I use what I build to find problems and share ideas with teammates to see what I
 
 ### 📧 Contact
 
-[Email](mailto:jyt6640@gmail.com) | [Velog](https://velog.io/@jyt6640)
+[Email](mailto:jyt6640@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jyt6640&color=7b2ff7&style=flat-square&label=Profile+Views)
 
@@ -19,27 +19,26 @@ I use what I build to find problems and share ideas with teammates to see what I
 
 ### 🌐 Tech Stack
 
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" />
-  <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&amp;logo=springsecurity&amp;logoColor=white" />
-  <img alt="JPA" src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&amp;logo=hibernate&amp;logoColor=white" />
-</p>
-<p>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
-  <img alt="QueryDSL" src="https://img.shields.io/badge/QueryDSL-0085CA?style=for-the-badge" />
-</p>
-<p>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" />
-  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" />
-</p>
+**Backend**
 
----
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-335BBA?style=for-the-badge)
 
-### ✍️ Blog
+**Infra & Monitoring**
 
-[![Velog Stats](https://velog-github-badge.vercel.app/badge/jyt6640)](https://velog.io/@jyt6640)
+![AWS EC2 and RDS](https://img.shields.io/badge/AWS%20EC2%20%26%20RDS-232F3E?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge)
 
 ---
 
