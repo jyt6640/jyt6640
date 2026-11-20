@@ -26,6 +26,14 @@
 ### Bootcamp
 
 - **우아한테크코스** | 웹 백엔드 과정 (2026년 2월부터 12월, 수료 예정)
+- Java와 Spring Boot로 개발하며 객체지향 설계, 단위 테스트, 리팩터링을 연습했습니다.
+- 페어 프로그래밍과 동료 코드 리뷰에서 설계 의도를 설명하고 피드백을 반영했습니다.
+
+### 수상 및 활동
+
+- **제4회 스마트 AI/SW 경진대회 대상** (2024년 8월) — 생성형 AI 스토리텔링 서비스
+- **한국소프트웨어산업협회장상(특별상)**, 2024 SW인재페스티벌 (58개 팀 참가, 과학기술정보통신부 주최)
+- 우테코의 10분 기술 발표 시리즈인 테코톡에서 [*AI 시대에서 개발자로 살아남는 법*](https://www.youtube.com/watch?v=C11Mk7S_x5U)을 발표했습니다.
 
 </details>
 
@@ -55,6 +63,14 @@ I'm a backend engineer who uses the products I build to spot problems and talks 
 ### Bootcamp
 
 - **Woowa Tech Course** | Backend development program (Feb to Dec 2026, expected)
+- Practiced object-oriented design, unit testing, and refactoring in Java and Spring Boot.
+- Explained design decisions and incorporated feedback through pair programming and peer code reviews.
+
+### Awards & Activities
+
+- **Grand Prize**, Smart AI & Software Competition (Aug 2024) — Generative AI storytelling service
+- **KOSA Special Award**, 2024 SW Talent Festival (58 teams, hosted by Korea’s Ministry of Science and ICT)
+- Presented [*Staying Relevant as a Developer in the AI Era*](https://www.youtube.com/watch?v=C11Mk7S_x5U) in Woowa’s series of 10-minute tech talks.
 
 </details>
 
